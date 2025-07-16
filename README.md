@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+
+I'm a Molecular Biologist and Medical Student with a passion for data-driven discovery. My foundation in molecular science and medicine gives me a unique perspective on transforming complex biological questions into actionable data solutions.
+
+I have hands-on experience in experimental design, data collection, and scientific analysis. I enjoy building end-to-end data science projects—from data cleaning and visualization to statistical modeling and the clear communication of results. I'm especially interested in making complex findings and statistical models accessible to both technical and non-technical audiences.
+
+
+
 <!--
 **CZhakshylykova/CZhakshylykova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
