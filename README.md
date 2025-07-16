@@ -79,7 +79,7 @@ class DataDrivenBiologist:
 
 ---
 
-###   EduSpend Analytics: Government Education Investment Predictor
+###   EduSpend Analytics: Education Investment Predictor
 > **Policy Analytics Dashboard** | *Interactive Data Science for Public Good*
 
 <details>
