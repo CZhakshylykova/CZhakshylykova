@@ -1,107 +1,40 @@
-#   Cholpon Zhakshylykova | Where Biology Meets Data
+#   Cholpon Zhakshylykova | Data Scientist with Bioinformatics Expertise  
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Molecular+Biologist+%2B+Medical+Student;Data+Science+%26+ML+Engineer;Transforming+Biology+into+Insights" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=500&lines=Data+Scientist;Machine+Learning+Engineer;Bioinformatics+%7C+Healthcare+Analytics;Turning+Complex+Data+into+Insights" alt="Typing SVG" />
 </div>
 
 ---
 
 ##   About Me
 
-I'm at the intersection of **molecular biology**, **medicine**, and **data science** — decoding complex biological systems through the lens of computational intelligence. With hands-on lab experience and clinical training, I translate real-world medical challenges into robust data solutions.
+I’m a data scientist with a strong background in molecular biology and bioinformatics.  
+I specialize in applying **machine learning, deep learning, and statistical analysis** to biological, clinical, and real-world datasets.  
+My mission: **transform complex data into actionable insights** in healthcare, science, and beyond.  
 
-```python
-class DataDrivenBiologist:
-    def __init__(self):
-        self.background = ["Molecular Biology", "Medical Student"]
-        self.passion = "Data-driven discovery"
-        self.superpower = "Bridging wet lab & computational science"
-        self.mission = "Transform complex biology → actionable insights"
-    
-    def current_focus(self):
-        return {
-            "🧠": "Medical AI & Predictive Modeling",
-            "🔬": "Computational Biology",
-            "📊": "Clinical Data Analysis",
-            "🤖": "MLOps & Experiment Tracking"
-        }
-```
+💡 Highlights:  
+- 3+ years as a **Research Scientist** (NGS, genomics, clinical data)  
+- Hands-on with **Python, SQL, ML, deep learning, and data visualization**  
+- Experience deploying **interactive ML apps** with Streamlit  
+- Passion for bridging **biology + AI** for real-world impact
 
----
+##  Featured Projects  
 
-##   Featured Projects
+- **🫁 Pneumonia Detection from X-Rays** | CNN model for pneumonia classification with Grad-CAM explainability → [Repo](https://github.com/CZhakshylykova/SDS-CP021-pneumonia-detection/tree/main/submissions-team/cholpon-zhakshylykova)  
+  *Python · PyTorch · Streamlit*  
 
-###  SpineScope: Orthopedic Patient Classification
-> **Clinical AI Pipeline** | *Advanced ML with Real-World Impact*
+- **❤️ Heart Failure Prediction** | Clinical outcome prediction using ML with SHAP explainability → [Repo](https://github.com/CZhakshylykova/Heart-Attack-Risk)  
+  *Python · scikit-learn · SHAP*  
 
-<details>
-<summary><b>🔍 Deep Dive</b></summary>
+- **🎓 EduSpend Analytics** | Predicted global education costs and built an interactive Streamlit dashboard → [Live Demo](https://edu-spends.streamlit.app/)  
+  *Python · scikit-learn · Streamlit*  
 
-**The Challenge:** Accurately classify orthopedic patients as "Abnormal" or "Normal" using clinical biomechanical data.
-
-**My Solution:**
-- 🔧 **Data Engineering**: Sophisticated preprocessing with SMOTE for class balancing
-- 🧠 **Neural Architecture**: Custom PyTorch models with hyperparameter optimization
-- 📊 **MLOps**: End-to-end experiment tracking with MLflow
-- 📈 **Results**: Achieved high accuracy with robust cross-validation
-
-**Tech Stack:** `Python` `PyTorch` `MLflow` `SMOTE` `pandas` `scikit-learn`
-
-**Impact:** Demonstrates production-ready ML pipeline for clinical decision support
-
-[🔗 **Explore Repository**](https://github.com/SuperDataScience-Community-Projects/SDS-CP033-spinescope/tree/main/submissions/team-members/cholpon-zhakshylykova)
+- **⚡ PowerCast (In Progress)** | Forecasting electricity demand from weather data using time-series ML → [Repo](https://github.com/CZhakshylykova/SDS-CP036-powercast)  
+  *Python · XGBoost · LSTM*  
 
 </details>
 
----
 
-###   CardioPredict: Heart Attack Risk Assessment
-> **Interpretable Medical AI** | *Transparent Predictions for Clinical Use*
-
-<details>
-<summary><b>🔍 Deep Dive</b></summary>
-
-**The Challenge:** Build interpretable models for predicting cardiovascular risk in patients.
-
-**My Solution:**
-- 🎯 **Model Development**: Custom risk prediction algorithms with clinical validation
-- 🔍 **Interpretability**: SHAP values and feature importance for clinical transparency
-- 📋 **Communication**: Clear risk visualization for both clinicians and patients
-- 🏥 **Clinical Focus**: Designed with real-world medical workflow in mind
-
-**Tech Stack:** `Python` `scikit-learn` `PyTorch` `SHAP` `pandas` `matplotlib`
-
-**Impact:** Provides explainable AI for critical medical decisions
-
-[🔗 **Explore Repository**](https://github.com/CZhakshylykova/Heart-Attack-Risk)
-
-</details>
-
----
-
-###   EduSpend Analytics: Education Investment Predictor
-> **Policy Analytics Dashboard** | *Interactive Data Science for Public Good*
-
-<details>
-<summary><b>🔍 Deep Dive</b></summary>
-
-**The Challenge:** Analyze education spending patterns and predict future government investment trends.
-
-**My Solution:**
-- 📊 **Data Analysis**: Comprehensive EDA revealing key spending drivers
-- 🔮 **Predictive Modeling**: Regression models for spending forecasts
-- 🌐 **Interactive Dashboard**: Live Streamlit app for stakeholder exploration
-- 📈 **Actionable Insights**: Clear recommendations for policy makers
-
-**Tech Stack:** `Python` `Streamlit` `pandas` `scikit-learn` `matplotlib` `seaborn`
-
-**Impact:** Empowers data-driven education policy decisions
-
-[🌐 **Live Dashboard**](https://edu-spends.streamlit.app/) | [🔗 **Repository**](https://github.com/CZhakshylykova/SDS-CP030-edu-spend/tree/main/submissions/team-members/cholpon-zhakshylykova)
-
-</details>
-
----
 
 ### **Core Technologies**
 <p align="left">
@@ -157,5 +90,5 @@ I'm always excited to discuss:
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=CZhakshylykova&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <i>"Turning biological and clinical data into actionable insights with Data Science & AI"</i>
 </div>
