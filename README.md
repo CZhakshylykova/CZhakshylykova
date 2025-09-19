@@ -19,17 +19,21 @@ My mission: **transform complex data into actionable insights** in healthcare, s
 - Passion for bridging **biology + AI** for real-world impact
 
 ##  Featured Projects  
+- **🧠 MedAI Literature Explorer** | AI-powered tool for scientific literature. Upload PDFs/URLs, ask questions (Q&A) and generate summaries using LLMs + semantic search → [Repo](https://github.com/CZhakshylykova/MedAI-Literature-Explorer)
 
+  *Python · Streamlit · LangChain · FAISS · OpenAI GPT*
 - **🫁 Pneumonia Detection from X-Rays** | CNN model for pneumonia classification with Grad-CAM explainability → [Repo](https://github.com/CZhakshylykova/SDS-CP021-pneumonia-detection/tree/main/submissions-team/cholpon-zhakshylykova)  
+
   *Python · PyTorch · Streamlit*  
 
 - **❤️ Heart Failure Prediction** | Clinical outcome prediction using ML with SHAP explainability → [Repo](https://github.com/CZhakshylykova/Heart-Attack-Risk)  
+
   *Python · scikit-learn · SHAP*  
-
 - **🎓 EduSpend Analytics** | Predicted global education costs and built an interactive Streamlit dashboard → [Live Demo](https://edu-spends.streamlit.app/)  
-  *Python · scikit-learn · Streamlit*  
 
+  *Python · scikit-learn · Streamlit*  
 - **⚡ PowerCast (In Progress)** | Forecasting electricity demand from weather data using time-series ML → [Repo](https://github.com/CZhakshylykova/SDS-CP036-powercast)  
+
   *Python · XGBoost · LSTM*  
 
 </details>
