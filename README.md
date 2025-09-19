@@ -8,15 +8,23 @@
 
 ##   About Me
 
-I’m a data scientist with a strong background in molecular biology and bioinformatics.  
-I specialize in applying **machine learning, deep learning, and statistical analysis** to biological, clinical, and real-world datasets.  
-My mission: **transform complex data into actionable insights** in healthcare, science, and beyond.  
+I am a **Data Scientist specialized in Healthcare AI and Bioinformatics**, with a background in **molecular medicine** and hands-on experience in **machine learning, deep learning, and statistical modeling.**
+My focus: **turning biological and clinical data into actionable insights** for research and real-world healthcare applications.
 
-💡 Highlights:  
-- 3+ years as a **Research Scientist** (NGS, genomics, clinical data)  
-- Hands-on with **Python, SQL, ML, deep learning, and data visualization**  
-- Experience deploying **interactive ML apps** with Streamlit  
-- Passion for bridging **biology + AI** for real-world impact
+💡 Highlights
+
+- 3+ years as **Research Scientist** (NGS, genomics, clinical data analysis)
+- Built and deployed **end-to-end ML prototypes** (Streamlit apps, interactive dashboards)
+- Expertise in **LLMs (LangChain, OpenAI GPT, FAISS)** for **literature analysis & semantic search**
+- Strong knowledge in **explainable AI (Grad-CAM, SHAP)** applied to clinical problems
+- Skilled in **Python, PyTorch, scikit-learn, LangChain, FAISS, Streamlit, Pandas, NumPy**
+- Familiar with **MLflow, GitHub Actions, Docker, CI/CD** for reproducible workflows
+
+⚡ What sets me apart
+
+- Unique blend of **life sciences + AI engineering**
+- Experience bridging **academic research** with **practical ML applications**
+- Passion for **translational medicine**: from raw data to models that make clinical sense
 
 ##  Featured Projects  
 - **🧠 MedAI Literature Explorer** | AI-powered tool for scientific literature. Upload PDFs/URLs, ask questions (Q&A) and generate summaries using LLMs + semantic search → [Repo](https://github.com/CZhakshylykova/MedAI-Literature-Explorer)
