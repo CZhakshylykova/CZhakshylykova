@@ -42,7 +42,9 @@ My focus: **turning biological and clinical data into actionable insights** for 
   *Python · scikit-learn · Streamlit*  
 - **⚡ PowerCast (In Progress)** | Forecasting electricity demand from weather data using time-series ML → [Repo](https://github.com/CZhakshylykova/SDS-CP036-powercast)  
 
-  *Python · XGBoost · LSTM*  
+  *Python · XGBoost · LSTM*
+
+- **HR Analytics Dashboard** | An interactive dashboard in Tableau that analyzes key HR metrics such as attrition rate, department-level turnover, job satisfaction, and overall workforce demographics. [Interactive demo available](https://public.tableau.com/app/profile/cholpon.zhakshylykova/viz/HR_17586406117510/HRANALYTICSDASHBOARD)
 
 </details>
 
