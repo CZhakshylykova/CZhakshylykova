@@ -37,7 +37,7 @@ My focus: **turning biological and clinical data into actionable insights** for 
 - **❤️ Heart Failure Prediction** | Clinical outcome prediction using ML with SHAP explainability → [Repo](https://github.com/CZhakshylykova/Heart-Attack-Risk)  
 
   *Python · scikit-learn · SHAP*  
-- **🎓 EduSpend Analytics** | Predicted global education costs and built an interactive Streamlit dashboard → [Live Demo](https://edu-spends.streamlit.app/)  
+- **🎓 EduSpend Analytics** | Predicted global education costs and built an interactive Streamlit dashboard → [Live Demo](https://edu-spends.streamlit.app/)  [Repo] (https://github.com/CZhakshylykova/SDS-CP030-edu-spend/tree/main/submissions/team-members/cholpon-zhakshylykova)
 
   *Python · scikit-learn · Streamlit*  
 - **⚡ PowerCast (In Progress)** | Forecasting electricity demand from weather data using time-series ML → [Repo](https://github.com/CZhakshylykova/SDS-CP036-powercast)  
